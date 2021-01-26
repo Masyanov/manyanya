@@ -385,6 +385,59 @@ h3 {
     background-size: cover;
 }
 
+/* reviews */
+
+.reviews {
+    margin-bottom: 50px;
+}
+
+.reviews__sub-title {
+    font-size: 18px;
+    padding: 0 15px;
+    margin-bottom: 0;
+}
+
+.reviews__desc {
+    font-size: 14px;
+    color: var(--color-light-gray);
+    margin: 5px 15px;
+}
+
+.reviews__comment {
+    font-size: 12px;
+    margin: 5px 15px;
+    line-height: 1.8;
+}
+
+.reviews__img {
+    display: flex;
+    margin: 20px auto;
+    box-shadow: inset 0px -3px 0px 0px var(--color-main);
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+}
+.reviews__img-bur {
+    background: url(../img/bur.png) center no-repeat;
+    background-size: cover;
+}
+.reviews__img-bre {
+    background: url(../img/bre.png) center no-repeat;
+    background-size: cover;
+}.reviews__img-pet {
+    background: url(../img/pet.png) center no-repeat;
+    background-size: cover;
+}.reviews__img-tse {
+    background: url(../img/tse.png) center no-repeat;
+    background-size: cover;
+}.reviews__img-beb {
+    background: url(../img/beb.png) center no-repeat;
+    background-size: cover;
+}.reviews__img-buk {
+    background: url(../img/buk.png) center no-repeat;
+    background-size: cover;
+}
+
 /* footer */
 
 .footer {
